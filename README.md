@@ -1,6 +1,6 @@
 <h1 align="center">
   YUMME
-  <h4 align="center">A recipe recommendation app.</h4>
+  <h4 align="center">Yumme, a recipe recommendation app.</h4>
 
 <p align="center">
  <a href="#demo-video">Demo</a> •
