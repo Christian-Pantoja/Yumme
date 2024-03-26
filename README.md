@@ -13,11 +13,6 @@
 
 <br>
 
-## Demo Video
-Click the image below to view the demo video.
-
-[<img src="app/assets/thumbnail.jpg" width="100%">](https://youtu.be/5FJjbYQitAg "Yumme App Demo")
-
 ## Key Features
 
 - <b>Firebase Authentication</b>
